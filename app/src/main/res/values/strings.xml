@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Componente</string>
+    <string name="et_nombre">Nombre</string>
+    <string name="et_apellido">Apellido</string>
+    <string name="btn">Agregar</string>
+</resources>
